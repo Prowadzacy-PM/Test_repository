@@ -1,2 +1,2 @@
-imie = "Sopfie"
+imie = "Antek"
 print(imie)
